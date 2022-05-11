@@ -5,3 +5,5 @@
 2. Aprender a realizar estatística no python
 ## **Quais bibliotecas encontrarei?**
 * Pandas 🐼
+* Numpy 
+* Scipy
