@@ -17,14 +17,16 @@
 </div>
    
 <h2 align = "center"><b> Detelhes de Arquivos<b></h2>
+  
+<h3 align = "center">É indicado que para fins de estudos o leitor deva seguir a ordem apresentada abaixo, dando foco na compreensão dos dados primeiro e depois seguindo para o conteúdo específico.</h3>
 
-<b><h3>Introdução</h3></b>
+<b><h3>1.Introdução</h3></b>
 
  Contém os arquivos referentes a conceitos básicos de estatística, tais como média, moda, mediana. Também contém informações referentes a como calcular combinações, níveis de significância, probabilidade e informações referentes aos dados que serão usados durante boa parte deste diretório. Nesta pasta estão informações importantes para compreender o que se encontras nas demais pastas.
  
-  <h3><font size = 10><b>Teste de Hipótese</b></font></h3>
+  <h3><font size = 10><b>2.Teste de Hipótese</b></font></h3>
   
    Contém arquivos referentes a realização de testes de hipótese. Os testes que aparecem nos arquivos são paramétricos e não paramétricos, contendo teste bicaudal,unicaudal, chi quadrado, t-student, e outros.
   
-  <b><h3>Regressão</h3></b>
+  <b><h3>3.Regressão</h3></b>
    Contém arquivos referentes a como realizar testes estatísticos e regressões. Há um foco em compreender como é realizado uma regressão linear e qual a interpretação das estatísticas referentes.
