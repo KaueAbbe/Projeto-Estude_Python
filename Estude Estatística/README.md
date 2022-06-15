@@ -18,20 +18,13 @@
    
 <h2 align = "center"><b> Detelhes de Arquivos<b></h2>
 
-<b><h3>Intro_Estatística1</h3></b>
+<b><h3>Introdução</h3></b>
 
-  - [x] Diferença e caracterização de variáveis qualitativos e quantitativas
-  - [x] Distribuição de frequências e histograma
-  - [x] Medidas de tendência Central (média, moda e mediana)
-  - [x] Medidas Separatrizes (Quartis, decis e percentis) e boxplot
-  - [x] Medidas de Dispersão (desvio padrão e médio absoluto, variância)
+ Contém os arquivos referentes a conceitos básicos de estatística, tais como média, moda, mediana. Também contém informações referentes a como calcular combinações, níveis de significância, probabilidade e informações referentes aos dados que serão usados durante boa parte deste diretório. Nesta pasta estão informações importantes para compreender o que se encontras nas demais pastas.
  
-  <h3><font size = 10><b>Intro_Estatística2</b></font></h3>
+  <h3><font size = 10><b>Teste de Hipótese</b></font></h3>
   
-   - [x] Distribuição de probabilidade(binomial, Poisson e Gaussiana)
-  - [x] Amostragem
-  - [x] Estimação
-  - [x] Carcular tamanho de amostra
+   Contém arquivos referentes a realização de testes de hipótese. Os testes que aparecem nos arquivos são paramétricos e não paramétricos, contendo teste bicaudal,unicaudal, chi quadrado, t-student, e outros.
   
-  <b><h3>Exercícios_Estimativas</h3></b>
-   - [x] Exercícios para colocar em prática Intro Estatística 1 e 2.
+  <b><h3>Regressão</h3></b>
+   Contém arquivos referentes a como realizar testes estatísticos e regressões. Há um foco em compreender como é realizado uma regressão linear e qual a interpretação das estatísticas referentes.
