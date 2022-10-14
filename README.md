@@ -7,3 +7,21 @@
 ## **Quais bibliotecas encontrarei nos notebooks?**
 * No momento há bibliotecas básicas como: Pandas :panda_face:, Numpy, Seaborn e Matplotlib
 * Também há bibliotecas de Machine Leaning: NLTK, Scikit-Learn, BeautifulSoup 
+
+# Projeto-Estude Python
+
+Organizar materiais de estudos referentes a diferentes tópicos da linguagem Python, para Aprender e distribuir formas de resolver problemas e contribuir com diversos estudos com da linguagem
+
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **Estude Python**
+| :label: Tecnologias | Python
+| :rocket: URL         | https://github.com/KaueAbbe/Projeto-Estude_Python
+| :fire: Desafio     | https://github.com/KaueAbbe/Projeto-Estude_Python
+
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+
+## Detalhes do projeto
+
+O projeto foi criado para eu poder ter acesso rápido aos meus estudos quando estiver em dúvidas, e a cada dúvida que tenho e escrevo nele há o crescimento do repositório. Bastante do que se encontra aqui foi de cursos, mas também há leitura em sites, livros e grupos de redes sociais. No momento estou adicionando meus estudos de machine learning, e no futuro adicionarei links, indicarei livros e quando farei uma pasta guia para Storytelling.
