@@ -19,8 +19,7 @@ Organizar materiais de estudos referentes a diferentes tópicos da linguagem Pyt
 | :rocket: URL         | https://github.com/KaueAbbe/Projeto-Estude_Python
 | :fire: Desafio     | https://github.com/KaueAbbe/Projeto-Estude_Python
 
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+
 
 ## Detalhes do projeto
 
