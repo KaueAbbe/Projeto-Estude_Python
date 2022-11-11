@@ -8,7 +8,7 @@ Organizar materiais de estudos referentes a diferentes tópicos da linguagem Pyt
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Estude Python**
-| :label: Tecnologias | Python
+| :label: Tecnologias | Python, Data Science, Machine learning, Storytelling
 | :rocket: URL         | https://github.com/KaueAbbe/Projeto-Estude_Python
 | :fire: Desafio     | https://github.com/KaueAbbe/Projeto-Estude_Python
 
