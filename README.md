@@ -5,7 +5,7 @@
 
 Organizar materiais de estudos referentes a diferentes tópicos da linguagem Python, para Aprender e distribuir formas de resolver problemas e contribuir com diversos estudos com da linguagem
 
-| :placard: Vitrine.Dev |     |
+| :placard: Vitrine.Dev |    [Minha Vitrine](https://cursos.alura.com.br/vitrinedev/kaueabbehausen)   |
 | -------------  | --- |
 | :sparkles: Nome        | **Estude Python**
 | :label: Tecnologias | Python, Data Science, Machine learning, Storytelling
