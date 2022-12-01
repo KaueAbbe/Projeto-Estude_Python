@@ -13,7 +13,8 @@ Organizar materiais de estudos referentes a diferentes tópicos da linguagem Pyt
 | :fire: Desafio     | https://github.com/KaueAbbe/Projeto-Estude_Python
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![Twitter post - 1 (1)](https://user-images.githubusercontent.com/68445400/201390361-df322fed-e4cd-4efc-a3a0-6cbb47aaa61a.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+
+![Twitter post - 1 (1)](https://user-images.githubusercontent.com/68445400/205132854-8a812863-06d3-419f-a16e-2d99c6eda3c1.png#vitrinedev)
 
 
 ## **Objetivo:** 🤔
