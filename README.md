@@ -28,3 +28,10 @@ Organizar materiais de estudos referentes a diferentes tópicos da linguagem Pyt
 ## Detalhes do projeto
 
 O projeto foi criado para eu poder ter acesso rápido aos meus estudos quando estiver em dúvidas, e a cada dúvida que tenho e escrevo nele há o crescimento do repositório. Bastante do que se encontra aqui foi de cursos, mas também há leitura em sites, livros e grupos de redes sociais. No momento estou adicionando meus estudos de machine learning, e no futuro adicionarei links, indicarei livros e quando farei uma pasta guia para Storytelling.
+
+## Referências
+
+O repositório utilizou de cursos e pesquisas. Algumas referências estão listadas abaixo:
+
+* Alura:
+1. Formações: Data Science, Estatística com Python, Machine Learning, Machine Learning Avançada
